@@ -1,5 +1,5 @@
 
-'''c++
+```python
 
 procdure select (A[1...n], k) //1<= k <= n
   r = A[1]
@@ -10,4 +10,4 @@ procdure select (A[1...n], k) //1<= k <= n
       insert A[j} ->AL
     else 
       insert A[j]->AV
-'''
+```
