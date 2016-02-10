@@ -1,4 +1,4 @@
-
+##### Select k smallest element
 ```python
 
 procdure select (A[1...n], k) //1<= k <= n
@@ -20,3 +20,7 @@ procdure select (A[1...n], k) //1<= k <= n
 * |A| is length of A
 * AL is left sublist
 * Problem gets smaller by atlest 1 every time
+
+##performance
+
+theta(1) + theta(n) + T((n/2))
