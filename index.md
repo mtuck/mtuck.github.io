@@ -17,6 +17,6 @@ procdure select (A[1...n], k) //1<= k <= n
   else 
     return r
 ```
-|A| is length of A
-AL is left sublist
-Problem gets smaller by atlest 1 every time
+* |A| is length of A
+* AL is left sublist
+* Problem gets smaller by atlest 1 every time
