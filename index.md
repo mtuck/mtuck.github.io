@@ -10,4 +10,10 @@ procdure select (A[1...n], k) //1<= k <= n
       insert A[j} ->AL
     else 
       insert A[j]->AV
+  if( <= |AL| )
+    select(AL, K)
+  else if (K > |AL| + |AR|)
+    select(AR, K - |AL| - |AR|)
+  else 
+    return r
 ```
