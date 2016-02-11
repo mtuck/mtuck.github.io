@@ -34,5 +34,27 @@ __What is a pragmatic programmer__
 
 ### Slide 6 Pragmatic Teams
 * Always prototype 
+ * refacter
+ * use templating
+* Good team communication
+* Communictae with client and user
+ * no suprises when deliver
+* document code while wrting it
+* Use automation
+ * tests
+  * test the tests
+ * add test when bug is found
+* Dont repeate yourself
+* Do not have tightly coupled modules
+
+
+### Last Slide
+What agile principles does it have?
+* Communictaion with user and team
+* Adaptive to chage
+ * prototype and refactor
+* Build working software
+ * but also documentation is just as important
+
 
 
